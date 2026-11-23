@@ -1,6 +1,6 @@
 {
     "name": "windy-plugin-sbys-visibilidade",
-    "version": "1.0.0",
+    "version": "3.0.0",
     "description": "Cartas de visibilidade do Campo Fontenelle / Academia da Força Aérea (SBYS) - Pirassununga",
     "main": "dist/plugin.min.js",
     "type": "module",

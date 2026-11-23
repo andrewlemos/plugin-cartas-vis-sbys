@@ -2,7 +2,7 @@ import type { ExternalPluginConfig } from '@windy/interfaces';
 
 const config: ExternalPluginConfig = {
     name: 'windy-plugin-sbys-visibilidade',
-    version: '1.0.0',
+    version: '3.0.0',
     title: 'SBYS - Carta de Visibilidade',
     icon: '🛫',
     description:
