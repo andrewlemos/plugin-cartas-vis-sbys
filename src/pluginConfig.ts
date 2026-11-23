@@ -10,7 +10,7 @@ const config: ExternalPluginConfig = {
     author: 'Andrew Lemos',
     desktopUI: 'rhpane',
     mobileUI: 'small',
-    repository: 'https://github.com/andrewlemos/cartas-visibilidade-sbys',
+    repository: 'https://github.com/andrewlemos/plugin-cartas-vis-sbys',
     routerPath: '/sbys-visibilidade',
     private: false,
 };
